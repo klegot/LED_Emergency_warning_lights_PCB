@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=VT1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=VT1-2
+Removed Pin From Net: NetName=GND Pin=VT1-3
+Removed Pin From Net: NetName=NetC1_1 Pin=VT2-1
+Removed Pin From Net: NetName=NetC2_2 Pin=VT2-2
+Removed Pin From Net: NetName=GND Pin=VT2-3
+Change Component DesignItemId : Designator=VT1 Old DesignItemId=CMP-00278-84324557-1 New DesignItemId=NPN transistor
+Change Component DesignItemId : Designator=VT2 Old DesignItemId=CMP-00278-84324557-1 New DesignItemId=NPN transistor
+Change Component Footprint: Designator=VT1 Old Footprint=FP-135AN-MFG New Footprint=SOT-23
+Change Component Footprint: Designator=VT2 Old Footprint=FP-135AN-MFG New Footprint=SOT-23
+Change Component Comment : Designator=VT1 Old Comment=BC548 New Comment=BC848
+Change Component Comment : Designator=VT2 Old Comment=BC548 New Comment=BC848
+Change Component Description : Designator=VT1 Old Description=BC548 Bulk Through Hole NPN Single Bipolar (BJT) Transistor 110 @ 2mA 5V 100mA 500mW 300MHz New Description=BC848 series 30 V, 100 mA NPN general-purpose transistors
+Change Component Description : Designator=VT2 Old Description=BC548 Bulk Through Hole NPN Single Bipolar (BJT) Transistor 110 @ 2mA 5V 100mA 500mW 300MHz New Description=BC848 series 30 V, 100 mA NPN general-purpose transistors
+Added Pin To Net: NetName=GND Pin=VT1-1
+Added Pin To Net: NetName=NetC2_1 Pin=VT1-2
+Added Pin To Net: NetName=NetC1_2 Pin=VT1-3
+Added Pin To Net: NetName=GND Pin=VT2-1
+Added Pin To Net: NetName=NetC1_1 Pin=VT2-2
+Added Pin To Net: NetName=NetC2_2 Pin=VT2-3
