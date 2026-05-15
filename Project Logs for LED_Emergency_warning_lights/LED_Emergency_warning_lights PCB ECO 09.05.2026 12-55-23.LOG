@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=HL1-K
+Removed Pin From Net: NetName=NetC2_1 Pin=HL2-K
+Removed Pin From Net: NetName=NetC2_2 Pin=R1-1
+Removed Pin From Net: NetName=+3V Pin=R1-2
+Removed Pin From Net: NetName=NetC1_2 Pin=R2-1
+Removed Pin From Net: NetName=+3V Pin=R2-2
+Removed Pin From Net: NetName=NetC1_2 Pin=VT1-1
+Removed Pin From Net: NetName=NetC2_1 Pin=VT1-3
+Removed Pin From Net: NetName=NetC2_2 Pin=VT2-1
+Removed Pin From Net: NetName=NetC1_1 Pin=VT2-3
+Change Component Footprint: Designator=HL1 Old Footprint=0603_LED_RED New Footprint=0603_LED_BLUE
+Change Component Comment : Designator=VT1 Old Comment=NPN_BEC New Comment=BC548
+Change Component Comment : Designator=VT2 Old Comment=NPN_BEC New Comment=BC548
+Change Component Comment : Designator=HL1 Old Comment= расный New Comment=—иний
+Change Component Designator: OldDesignator=VT1 NewDesignator=VT2
+Change Component Designator: OldDesignator=VT2 NewDesignator=VT1
+Change component parameters: Designator = "HL1" ("HL1"); Footprint = "0603_LED_RED"; UniqueID = "\BEHREGGF" ("\BEHREGGF")
+Change component parameters (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp"; Value = "-40C...+85C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "—иний"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = "—ветодиод"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturer"; Value = "Foryard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "fyls-0603urc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = "—ветодиод"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT1" ("VT2"); Footprint = "FP-135AN-MFG"; UniqueID = "\PQPIEAJW" ("\PQPIEAJW")
+Change component parameters (AddParameter): Name = "Case"; Value = "TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BC548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = "Ѕипол€рный транзистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = "Ѕипол€рный транзистор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT2" ("VT1"); Footprint = "FP-135AN-MFG"; UniqueID = "\JVEQBDFT" ("\JVEQBDFT")
+Change component parameters (AddParameter): Name = "Case"; Value = "TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BC548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = "Ѕипол€рный транзистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = "Ѕипол€рный транзистор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=HL1-K
+Added Pin To Net: NetName=NetC1_1 Pin=HL2-K
+Added Pin To Net: NetName=+3V Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=+3V Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=VT1-1
+Added Pin To Net: NetName=NetC2_1 Pin=VT1-3
+Added Pin To Net: NetName=NetC2_2 Pin=VT2-1
+Added Pin To Net: NetName=NetC1_1 Pin=VT2-3

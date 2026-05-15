@@ -1,0 +1,9 @@
+Change Footprint: Cannot match pads with new footprint in component :GB1 Footprint:FP-653-MFG
+Change Component Comment : Designator=GB1 Old Comment=CR2032-VAY3-15.2 New Comment=CR2032
+Change Component Description : Designator=GB1 Old Description=Li, MnO2 батарея типоразмера R20, 3В, 0.22Ач, приваренные выводы, -20...60 °C New Description=Li, MnO2 батарея типоразмера R20, 3В
+Change component parameters: Designator = "GB1" ("GB1"); Footprint = "CR2032-VAY3-15.2"; UniqueID = "\QDKSSKFN" ("\QDKSSKFN")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR2032"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = "Батарея"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = "Батарея"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Автор"; Value = ""; VariantName = "[No Variations]"

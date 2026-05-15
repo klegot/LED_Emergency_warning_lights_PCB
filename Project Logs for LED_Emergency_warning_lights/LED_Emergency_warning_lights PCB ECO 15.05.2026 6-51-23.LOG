@@ -1,0 +1,9 @@
+Added Component: Designator=GB1(FP-653-MFG)
+Add component (AddParameter): Name = "Part Number"; Value = "CR2032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDescription"; Value = "Батарея"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueType"; Value = "Батарея"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=GB1-N
+Added Pin To Net: NetName=+3V Pin=GB1-P
+Added Member To Class: ClassName=LED_Emergency_warning_lights Member=Component GB1 Battery

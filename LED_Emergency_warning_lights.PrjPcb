@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EURDVEME
 
 [Document6]
 DocumentPath=..\ArdUno_AADsm5-42b_ver1.1\ArdUno_AADsm5-42b.SchLib
@@ -149,7 +149,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JVAYGWRG
 
 [Document7]
 DocumentPath=..\Library\ExportIntLib\VT.SchLib
@@ -167,6 +167,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFIMTQKD
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LED_Emergency_warning_lights\Design Rule Check - LED_Emergency_warning_lights.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Address1

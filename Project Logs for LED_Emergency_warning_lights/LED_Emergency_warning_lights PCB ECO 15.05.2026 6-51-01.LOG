@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=GB1-N
+Removed Pin From Net: NetName=+3V Pin=GB1-P
+Removed Pin From Net: NetName=+3V Pin=GB1-P
+Removed Member From Class: ClassName=LED_Emergency_warning_lights Member=GB1

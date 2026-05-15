@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=VT1-1
+Removed Pin From Net: NetName=GND Pin=VT1-2
+Removed Pin From Net: NetName=NetC2_1 Pin=VT1-3
+Removed Pin From Net: NetName=NetC2_2 Pin=VT2-1
+Removed Pin From Net: NetName=GND Pin=VT2-2
+Removed Pin From Net: NetName=NetC1_1 Pin=VT2-3
+Removed Member From Class: ClassName=LED_Emergency_warning_lights Member=VT1
+Removed Member From Class: ClassName=LED_Emergency_warning_lights Member=VT2
+Added Member To Class: ClassName=LED_Emergency_warning_lights Member=Component GB1 Battery

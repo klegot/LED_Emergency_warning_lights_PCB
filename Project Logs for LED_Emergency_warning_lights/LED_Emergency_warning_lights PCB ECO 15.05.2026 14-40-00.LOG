@@ -1,0 +1,18 @@
+Added Component: Designator=VT1(SOT-23)
+Add component (AddParameter): Name = "Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BC848B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDescription"; Value = "Ѕипол€рный транзистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueType"; Value = "Ѕипол€рный транзистор"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23)
+Add component (AddParameter): Name = "Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BC848B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDescription"; Value = "Ѕипол€рный транзистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueType"; Value = "Ѕипол€рный транзистор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=VT1-1
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=NetC2_1 Pin=VT1-3
+Added Pin To Net: NetName=NetC2_2 Pin=VT2-1
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=NetC1_1 Pin=VT2-3
+Added Member To Class: ClassName=LED_Emergency_warning_lights Member=Component VT1 BC848B
+Added Member To Class: ClassName=LED_Emergency_warning_lights Member=Component VT2 BC848B

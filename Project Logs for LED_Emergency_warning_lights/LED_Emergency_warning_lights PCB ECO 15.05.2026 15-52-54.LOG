@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=HL2 Old Footprint=0603_LED_BLUE New Footprint=0603_LED_RED
+Change Component Comment : Designator=HL2 Old Comment=Синий New Comment=Красный
+Change component parameters: Designator = "HL2" ("HL2"); Footprint = "0603_LED_BLUE"; UniqueID = "\GRHXDZEY" ("\GRHXDZEY")
+Change component parameters (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp"; Value = "-40C...+85C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Красный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = "Светодиод"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturer"; Value = "Foryard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "fyls-0603urc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = "Светодиод"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=LED_Emergency_warning_lights Member=Component VT1 BC848B
+Added Member To Class: ClassName=LED_Emergency_warning_lights Member=Component VT2 BC848B
