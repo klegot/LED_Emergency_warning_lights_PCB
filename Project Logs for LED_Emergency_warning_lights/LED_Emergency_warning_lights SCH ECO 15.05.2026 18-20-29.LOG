@@ -1,0 +1,6 @@
+Change Value of Parameter Tolerance in Part C1 Old= New=20%
+Change Value of Parameter ValueDescription in Part C1 Old=Конденсатор New==ValueType+' '+Case+' '+Value+'Ф±'+Tolerance+' '+Voltage+' В'
+Change Value of Parameter Tolerance in Part C2 Old= New=20%
+Change Value of Parameter ValueDescription in Part C2 Old=Конденсатор New==ValueType+' '+Case+' '+Value+'Ф±'+Tolerance+' '+Voltage+' В'
+Added Parameter Voltage=50 to Part C1
+Added Parameter Voltage=50 to Part C2

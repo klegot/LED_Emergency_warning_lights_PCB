@@ -1,0 +1,5 @@
+Change Value of Parameter Part Number in Part GB1 Old=CR2032 New=BA2032SM
+Change Value of Parameter ValueDescription in Part GB1 Old=Батарея New=Батарейный отсек
+Change Value of Parameter ValueType in Part GB1 Old=Батарея New=Батарейный отсек
+Added Parameter ValueManufacturer=Memory Protection Devices to Part GB1
+Added Parameter ValueManufacturerPartNumber=BA2032SM to Part GB1

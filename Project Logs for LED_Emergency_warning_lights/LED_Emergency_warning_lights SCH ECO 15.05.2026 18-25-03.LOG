@@ -1,0 +1,6 @@
+Change Value of Parameter ValueDescription in Part VT1 Old=Ѕипол€рный транзистор New==ValueType+Т С+ValueManufacturerPartNumber+Т  аталог '+ValueManufacturer
+Change Value of Parameter ValueDescription in Part VT2 Old=Ѕипол€рный транзистор New==ValueType+Т С+ValueManufacturerPartNumber+Т  аталог '+ValueManufacturer
+Added Parameter ValueManufacturer=  Nexperia B.V. to Part VT1
+Added Parameter ValueManufacturer=  Nexperia B.V. to Part VT2
+Added Parameter ValueManufacturerPartNumber=  BC848B,215 to Part VT1
+Added Parameter ValueManufacturerPartNumber=  BC848B,215 to Part VT2

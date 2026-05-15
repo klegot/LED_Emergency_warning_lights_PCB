@@ -1,0 +1,2 @@
+Change Value of Parameter ValueDescription in Part VT1 Old=#NAME? New==ValueType+' '+ValueManufacturerPartNumber+' Каталог '+ValueManufacturer
+Change Value of Parameter ValueDescription in Part VT2 Old=#NAME? New==ValueType+' '+ValueManufacturerPartNumber+' Каталог '+ValueManufacturer
