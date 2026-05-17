@@ -122,40 +122,40 @@ DocumentPath=Project Outputs for LED_Emergency_warning_lights\Design Rule Check 
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Address1
-Value=МГТУ им. Н.Э. Баумана
+Name=Title1str
+Value=Светодиодная аварийная сигнализация
 
 [Parameter2]
-Name=Address2
-Value=Кафедра СМ5
+Name=SheetTotal
+Value=1
 
 [Parameter3]
-Name=Address3
-Value=Группа СМ5-42Б
+Name=SheetNumber
+Value=
 
 [Parameter4]
-Name=CheckedBy
-Value=Перов А.Ю.
+Name=DocumentType
+Value=Схема электрическая принципиальная
 
 [Parameter5]
 Name=DevelopedBy
 Value=Абрамов А.Д.
 
 [Parameter6]
-Name=DocumentType
-Value=Схема электрическая принципиальная
+Name=CheckedBy
+Value=Перов А.Ю.
 
 [Parameter7]
-Name=SheetNumber
-Value=
+Name=Address3
+Value=Группа СМ5-42Б
 
 [Parameter8]
-Name=SheetTotal
-Value=1
+Name=Address2
+Value=Кафедра СМ5
 
 [Parameter9]
-Name=Title1str
-Value=Arduino Uno
+Name=Address1
+Value=МГТУ им. Н.Э. Баумана
 
 [Configuration1]
 Name=Sources

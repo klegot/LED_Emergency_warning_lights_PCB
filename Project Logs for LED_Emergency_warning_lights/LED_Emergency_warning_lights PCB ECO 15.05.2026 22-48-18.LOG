@@ -1,0 +1,12 @@
+Change Component Comment : Designator=R1 Old Comment=47к New Comment=
+Change Component Comment : Designator=R2 Old Comment=47к New Comment=
+Change Component Comment : Designator=C1 Old Comment=47мк New Comment=
+Change Component Comment : Designator=C2 Old Comment=47мк New Comment=
+Change Component Comment : Designator=HL1 Old Comment= расный New Comment=
+Change Component Comment : Designator=HL2 Old Comment= расный New Comment=
+Change Component Library : Designator=C1 Old Library=ArdUno_AADsm5-42b.SchLib New Library=LED_Emergency_warning_lights.SchLib
+Change Component Library : Designator=C2 Old Library=ArdUno_AADsm5-42b.SchLib New Library=LED_Emergency_warning_lights.SchLib
+Change Component Library : Designator=HL1 Old Library=ArdUno_AADsm5-42b.SchLib New Library=LED_Emergency_warning_lights.SchLib
+Change Component Library : Designator=HL2 Old Library=ArdUno_AADsm5-42b.SchLib New Library=LED_Emergency_warning_lights.SchLib
+Change Component Library : Designator=R1 Old Library=ArdUno_AADsm5-42b.SchLib New Library=LED_Emergency_warning_lights.SchLib
+Change Component Library : Designator=R2 Old Library=ArdUno_AADsm5-42b.SchLib New Library=LED_Emergency_warning_lights.SchLib

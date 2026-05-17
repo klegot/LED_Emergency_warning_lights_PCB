@@ -1,0 +1,8 @@
+Change component parameters: Designator = "GB1" ("GB1"); Footprint = "FP-653-MFG"; UniqueID = "\YCERXOZU" ("\YCERXOZU")
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = " BA2032SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDescription"; Value = "Батарейный отсек BA2032SM Каталог MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturer"; Value = "MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = " BA2032SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueType"; Value = "Батарейный отсек"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Автор"; Value = ""; VariantName = "[No Variations]"
