@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\andrey\Documents\Altium\LED_Emergency_warning_lights\LED_Emergency_warning_lights.PcbDoc
-Date     : 16.05.2026
-Time     : 15:14:50
+Date     : 20.05.2026
+Time     : 14:23:56
 
 Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
 Rule Violations :0
@@ -84,4 +84,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
